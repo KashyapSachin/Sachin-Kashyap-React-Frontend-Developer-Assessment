@@ -1,41 +1,90 @@
-# Multi-Theme Switcher App
 
-## Features
-- Three distinct themes with different layouts
-- Theme persistence using localStorage
-- Responsive design for all devices
-- Product data from fakestoreapi.com
-- Multi-page navigation
+# 🚀 React Frontend Developer Assessment – Sachin Kashyap
 
-## Installation
-1. Clone the repository
-2. Run `npm install`
-3. Run `npm start`
+This repository contains my technical assessment submission for the **React Frontend Developer** role at **Hipster Inc.**  
+Live Preview 👉 [Click Here](https://sachin-kashyap-react-frontend-devel-green.vercel.app)
 
-## Dependencies
-- React
-- React Router
-- Tailwind CSS
+---
 
-## Installation
+## 🔧 Setup Instructions
 
-Install my-project with npm
+Follow the steps below to run the project locally:
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/KashyapSachin/Sachin-Kashyap-React-Frontend-Developer-Assessment.git
+cd Sachin-Kashyap-React-Frontend-Developer-Assessment
+````
+
+### 2. Install dependencies
 
 ```bash
-npm install my-project
-cd my-project
+npm install
 ```
 
-## Usage/Examples
+### 3. Run the app
 
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
+```bash
+npm run dev
 ```
 
-## License
+---
 
-[MIT](https://choosealicense.com/licenses/mit/)
+## 📂 Folder Structure
+
+```
+/src
+├── /components
+│   ├── Card.jsx
+│   ├── Header.jsx
+│   ├── Layout.jsx
+│   ├── Sidebar.jsx
+│   └── ThemeSwitcher.jsx
+├── /contexts
+│   └── ThemeContext.jsx
+├── /pages
+│   ├── About.jsx
+│   ├── Contact.jsx
+│   └── Home.jsx
+├── App.css
+├── App.jsx
+├── index.css
+├── main.jsx
+└── themes.js
+```
+
+---
+
+## 🌐 Live Deployment
+
+* **Hosted on Vercel**: [https://sachin-kashyap-react-frontend-devel-green.vercel.app](https://sachin-kashyap-react-frontend-devel-green.vercel.app)
+
+* **Test Credentials (if required)**
+
+  * Email: `test@example.com`
+  * Password: `test123`
+
+---
+
+## 👨‍💻 Author
+
+**Sachin Kashyap**
+Frontend Developer – React.js Enthusiast
+[LinkedIn](https://www.linkedin.com/in/sachinkashyapdev) • [GitHub](https://github.com/KashyapSachin)
+
+---
+
+## 📌 Features
+
+* ⚡ Modern React + Vite setup
+* 🎨 Theme Switcher with Light/Dark modes
+* 📱 Responsive UI
+* 📦 Component-based architecture
+
+---
+
+## 📃 License
+
+This project is licensed for assessment/demo purposes only.
+
+
