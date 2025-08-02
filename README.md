@@ -59,10 +59,7 @@ npm run dev
 
 * **Hosted on Vercel**: [https://sachin-kashyap-react-frontend-devel-green.vercel.app](https://sachin-kashyap-react-frontend-devel-green.vercel.app)
 
-* **Test Credentials (if required)**
 
-  * Email: `test@example.com`
-  * Password: `test123`
 
 ---
 
@@ -70,7 +67,7 @@ npm run dev
 
 **Sachin Kashyap**
 Frontend Developer – React.js Enthusiast
-[LinkedIn](https://www.linkedin.com/in/sachinkashyapdev) • [GitHub](https://github.com/KashyapSachin)
+[LinkedIn](https://www.linkedin.com/in/sachin-kashyap-737452226/) • [GitHub](https://github.com/KashyapSachin)
 
 ---
 
